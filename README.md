@@ -54,7 +54,7 @@ instagram-like-slider/
 
 ## 🌟 Screenshots
 
-![Screenshot 1](image/1%20(2).png)  
-![Screenshot 2](image/2%20(2).png)
+![Screenshot 1](1 (2).png)  
+![Screenshot 2](2 (2).png)
 
 

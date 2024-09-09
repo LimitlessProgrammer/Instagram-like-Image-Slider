@@ -2,7 +2,7 @@
 
 This project demonstrates how to create a responsive, Instagram-like image slider using **HTML**, **CSS**, and **JavaScript**. The slider features autoplay, navigation controls, dot indicators, swipe gesture support for mobile, and hover effects for an interactive user experience.
 
-![Slider Preview](image/slider_preview.jpg) 
+![Slider Tutorial](https://youtu.be/TlKKh9Q1KL8) 
 
 ## 🚀 Features
 
